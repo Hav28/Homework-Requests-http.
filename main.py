@@ -38,7 +38,7 @@ class YaUploader:
 
 
 if __name__ == '__main__':
-    token = 'y0_AgAAAABdhf5MAADLWwAAAADSazhui4raWx2sRumvw9rJ_r3JIhafcg4'
+    token = '0000000000000000000000000000000000'
     uploader = YaUploader(token)
     uploader.upload('/test.txt', 'test.txt')
 
